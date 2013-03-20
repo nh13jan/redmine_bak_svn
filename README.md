@@ -1,7 +1,7 @@
 redmine_bak_svn
 ===============
 
-Backup solution for redmine using subversion
+Backup solution for redmine using subversion for bash
 
-doesn't work yet - hads off...
+doesn't work yet - hands off...
 
